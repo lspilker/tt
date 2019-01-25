@@ -30,6 +30,7 @@ contract Poll {
     
     // function to add a proposal others can vote for
     function addProposal(string memory proposalName) public {
+        require(msg.sender == chairperson);
         proposals.push(
             Proposal(proposalName, 0)
         );
