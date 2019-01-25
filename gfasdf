@@ -1,1 +1,5 @@
 mapping(address => mapping(address => bool)) public delegation;
+
+
+bool test = delegation[addresse von a][addresse von b]
+bool test1 = delegation[addresse von a][addresse von c]
