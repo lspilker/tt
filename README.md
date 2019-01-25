@@ -5,4 +5,5 @@ In this repository you can find the continuously updated solutions for the Techn
 IP- Adresse der AWS I
 35.159.53.49:8544
 
-0xe8b906fbc0dcbf7b2c94994f10a12c159bf50e0d
+erc20 contract
+0x9f77f9bdffbf78b031a32d04b1bbf8c07bd04adf
