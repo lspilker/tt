@@ -5,4 +5,4 @@ In this repository you can find the continuously updated solutions for the Techn
 
 35.159.53.49:8544
 
-0x3e859d329ff05828d5f4125ded2045b9222849a3
+0xe8b906fbc0dcbf7b2c94994f10a12c159bf50e0d
